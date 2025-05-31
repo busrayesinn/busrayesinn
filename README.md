@@ -36,3 +36,7 @@ Zar tabanlı haritalarla dolu mini bir keşif oyunu 🎲
 ---
 
 > ⭐️ Daha fazlası için profili gezmeyi unutma!
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=busrayesinn.busrayesinn" />
+</p>
