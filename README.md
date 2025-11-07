@@ -15,7 +15,7 @@ Zar tabanlı haritalarla dolu mini bir keşif oyunu 🎲
 ---
 
 ### 💡 Hakkımda kısa kısa:
-- 👩‍🎓 **Bursa Teknik Üniversitesi** – Bilgisayar Mühendisliği 2.sınıf öğrencisiyim  
+- 👩‍🎓 **Bursa Teknik Üniversitesi** – Bilgisayar Mühendisliği 3.sınıf öğrencisiyim  
 - 📫 Bana ulaş: [LinkedIn Profilim](https://www.linkedin.com/in/busrayesinn)
 
 ---
