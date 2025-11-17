@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+  <img src="https://64.media.tumblr.com/495ff832768d105cb10d961bf4e196e4/tumblr_nwukabjuTQ1uh3zxpo1_500.gif" width="300">
 </p>
 
 ### 🎮 Son Projem: **Berb Hike**
